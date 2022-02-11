@@ -50,10 +50,30 @@ p {
     
 }
 
+.hero input{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: auto;
+    width: auto;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+
+button{
+    padding: 10px 30px;
+    margin-top: 10px;
+    border: 1px solid hsl(237deg 71% 66%) 13%;
+    border-radius: 5px;
+    background: black;
+    color: white;
+    font-weight: bold;
+}
+
 #userValue{
     margin-top:0;
-    font-size: 60px;
-    padding-bottom: 53.77px;
+    font-size: 15px;
+    padding: 10px 0;
     font-weight: bold;
 }
 
